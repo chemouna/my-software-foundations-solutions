@@ -1,0 +1,17 @@
+DIGEST df2db451bd57f0a474a36018973a81b3
+Fbasics
+ind 11:13 <> day
+constr 29:34 <> monday
+constr 46:52 <> tuesday
+constr 64:72 <> wednesday
+constr 84:91 <> thursday
+constr 103:108 <> friday
+constr 120:127 <> saturday
+constr 139:144 <> sunday
+R38:40 basics <> day ind
+R56:58 basics <> day ind
+R76:78 basics <> day ind
+R95:97 basics <> day ind
+R112:114 basics <> day ind
+R131:133 basics <> day ind
+R148:150 basics <> day ind
